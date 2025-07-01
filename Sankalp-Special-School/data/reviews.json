@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Priya Sharma",
+    "rating": 5,
+    "comment": "Sankalp has been a blessing for our family. The dedicated staff and personalized approach have helped our child grow tremendously. The 18 years of experience really shows in their care.",
+    "date": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Rajesh Kumar",
+    "rating": 5,
+    "comment": "Exceptional care and attention our child receives here. The minimal fees make quality special education accessible to families like ours. Highly recommended!",
+    "date": "2024-02-20T14:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Anita Singh",
+    "rating": 5,
+    "comment": "The team at Sankalp truly understands the needs of special children. Their individualized programs have made such a difference in our child's development. Thank you!",
+    "date": "2024-03-10T09:15:00.000Z"
+  }
+]
